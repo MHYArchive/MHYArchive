@@ -1,0 +1,70 @@
+Dead links are marked with *
+-----------------------------------------
+CE:
+
+* https://hk-bhrpg-pc-client.oss-cn-hongkong.aliyuncs.com/global/prod/hkrpg_global/20210920-2150-V0.56Live-178389-OSCEregressWin0.56.0-OSTest-release.zip
+
+-----------------------------------------
+0.64:
+
+* https://autopatchos.starrails.com/client/0329/hkrpg_os_202204010204_w9JY9aQnKH2fXoHN.zip 
+
+* https://rpgstorage.mihoyo.com/RPG/Data/RPGDownloads/AutoBuild/bh3rpgapk/20220401-0204-BetaLive-503834-CNBETAWin0.64.0-CnCb.zip
+
+* https://autopatchos.starrails.com/client/0???/hkrpg_os_20220402_rJki3OZ7RNPm3mT1.zip 
+
+-----------------------------------------
+0.70:
+
+* https://autopatchcn.bhsr.com/client/0517/CN_20220519170222_9c9LS59LBD8241N3.exe
+
+﻿* https://bhrpg-prod.oss-accelerate.aliyuncs.com/client/0517/StarRail_202205130516_qqqUGS2V4QQ4tNYE.zip
+
+* https://autopatchcn.bhsr.com/client/0517/StarRail_202205130516_hKO9l8yRE58NjP9r.apk
+
+* https://autopatchos.starrails.com/client/0517/StarRail_202205130516_q2hnl9E6ACCDC5wC.zip
+
+
+-----------------------------------------
+0.90(.X)
+
+* https://autopatchcn.bhsr.com/client/cn/20230202112711_Gqh20JqTKF8yCY7c/StarRail_0.90.0.apk
+
+* https://autopatchos.starrails.com/client/download/20230202113937_NE7YVwlt4XBAMuNL/StarRail_setup_20230202111955.exe
+
+* https://autopatchos.starrails.com/client/download/20230202113937_NE7YVwlt4XBAMuNL/StarRail_0.90.0.zip
+
+* https://autopatchcn.bhsr.com/client/cn/20230202112711_Gqh20JqTKF8yCY7c/StarRail_setup_20230202111954.exe
+
+* https://autopatchcn.bhsr.com/client/cn/20230202112711_Gqh20JqTKF8yCY7c/StarRail_0.90.0.zip
+
+https://autopatchos.starrails.com/client/Beta/20230330154048_A2LLqkBNbKYygxFx/StarRail_0.90.57.zip
+
+https://autopatchcn.bhsr.com/client/beta/20230330153817_YxOUaVVZazduQXmk/StarRail_0.90.57.zip
+
+https://autopatchos.starrails.com/client/Beta/20230330154048_A2LLqkBNbKYygxFx/StarRail_0.90.57.apk
+
+https://autopatchcn.bhsr.com/client/beta/20230330153817_YxOUaVVZazduQXmk/StarRail_0.90.57.apk
+
+-----------------------------------------
+1.0.X
+
+https://autopatchcn.bhsr.com/client/beta/20230512143408_Y6OQv3W4OgMfnkqS/StarRail_1.0.54.zip
+
+https://autopatchcn.bhsr.com/client/beta/20230428142942_xirHZaDj0YPNgQm9/StarRail_1.0.52.zip
+
+https://autopatchos.starrails.com/client/download/20230413214947_toY0cWzqBhhM2EDV/StarRail_1.0.5.zip
+
+-----------------------------------------
+1.2.X
+
+https://autopatchcn.bhsr.com/client/beta/20230721171538_y2EaII853Kump3Ig/StarRail_1.2.52.zip
+
+https://autopatchcn.bhsr.com/client/beta/20230721171538_y2EaII853Kump3Ig/StarRail_1.2.52.apk
+
+https://bhrpg-prod.oss-accelerate.aliyuncs.com/client/beta/20230729142604_Oj6agNnMhOcYdLkw/StarRail_1.2.53.zip
+
+-----------------------------------------
+2.0.X
+
+https://autopatchos.starrails.com/client/Beta/20240218150828_dorjVkAjSDfU6ppN/StarRail_2.0.51.zip
