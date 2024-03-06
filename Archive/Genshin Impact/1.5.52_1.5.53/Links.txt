@@ -16,3 +16,7 @@ GOOGLE DRIVE/GITHUB:
 ---
 ---
 
+https://github.com/MHYArchive/MHYArchive/blob/main/Archive/Genshin%20Impact/1.5.52_1.5.53/Language%20diffs/en-us_1.5.52_1.5.53_diff_amdGhC2jQtwqzN8S.zip
+https://github.com/MHYArchive/MHYArchive/blob/main/Archive/Genshin%20Impact/1.5.52_1.5.53/Language%20diffs/ja-jp_1.5.52_1.5.53_diff_BQamN8euiOSskb6r.zip
+https://github.com/MHYArchive/MHYArchive/blob/main/Archive/Genshin%20Impact/1.5.52_1.5.53/Language%20diffs/zh-cn_1.5.52_1.5.53_diff_oV4F7WajRs8MkBZh.zip
+https://github.com/MHYArchive/MHYArchive/blob/main/Archive/Genshin%20Impact/1.5.52_1.5.53/Language%20diffs/ko-kr_1.5.52_1.5.53_diff_qlsItnecX7EJpBYT.zip

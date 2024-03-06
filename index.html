@@ -19,7 +19,7 @@ body {
     margin-top: 20px;
     padding: 10px 20px;
     border-radius: 5px;
-    background-color: #000000;
+    background-color: #4a4a4a;
     color: white;
     cursor: pointer;
     text-decoration: none;
@@ -30,56 +30,44 @@ body {
 </head>
 <body>    
     <h3>Honkai: Star Rail</h2>
-        <select onchange="window.location.href=this.value;" class="button">
-            <option value="">Select a version</option>
-            <optgroup label="0.5X">
-              <option value="https://drive.google.com/uc?export=download&id=1u2VBMWDyX64YYEd8VWyAmapD2Fu1bkFw">0.56 Client (OS)</option>
-            </optgroup>
-            <optgroup label="0.6X">
-              <option value="https://drive.google.com/uc?export=download&id=18wY_E8RiYrSx86RgmVOV1TiEjoJek35-">0.64 Client (OS)</option>
-              <option value="https://drive.google.com/uc?export=download&id=1Lt-CMpLxfngA7JdJZTse6r4xU-wILUjr">0.64 Client (OS) (KafkaSR Patch)</option>
-            </optgroup>
-            <optgroup label="0.7X">
-              <option value="https://drive.google.com/uc?export=download&id=1zjmPI0d6EeueX1wj3uSQQoVPkw9Pw09N">0.70 Client (OS)</option>
-            </optgroup>
-            <optgroup label="0.8X">
-              <option value="">0.80 Client (CN)</option>
-              <option value="">0.80.52 Client (OS)</option>
-            </optgroup>
-            <optgroup label="0.9X">
-              <option value="https://drive.google.com/uc?export=download&id=1Y3ABR3KTf_wPwMAYhwhW5WWnLvq1daWz">0.90 Client (OS)</option>
-              <option value="https://drive.google.com/uc?export=download&id=1Y-o3yUcqMiCXYD5ezKc6GUbkH3XRgWmt">0.90 APK (OS)</option>
-              <option value="https://drive.google.com/uc?export=download&id=1fHJGfIY-j8KcSm2xaJxyrWgyogNtuzbG">0.90 APK (CN)</option>
-              <option value="https://drive.google.com/uc?export=download&id=1J5bQUwZQaEHOF1HmixI1rgKW1yVt8caj">0.90 Launcher (OS)</option>
-              <option value="https://drive.google.com/uc?export=download&id=1IXXThXKxQlqZVHpUVMg3xjFP7xWyZGfN">0.90 Launcher (CN)</option>
-            </optgroup>
-            <optgroup label="2.0.X">
-              <option value="">2.0.52 Client (CN)</option>
-              <option value="">2.0.52 -> 2.0.53 diff (CN)</option>
-              <option value="https://drive.google.com/file/d/1_nqdXn3PDD1qIa_bzd4Fbxjxt-rn8C9x/view?usp=sharing">2.0.53 APK (CN)</option>
-            </optgroup>
-          </select>
-          
-    <h3>Genshin Impact</h2>
-    <a href="" class="button">2.6.51 -> 2.6.52 diff (CN)</a>
-
-    <h3>ZenlessZoneZero</h2>
-
-    </body>
-    <script>
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
-        
-        for (i = 0; i < coll.length; i++) {
-          coll[i].addEventListener("click", function() {
-            this.classList.toggle("active");
-            var content = this.nextElementSibling;
-            if (content.style.display === "block") {
-              content.style.display = "none";
-            } else {
-              content.style.display = "block";
-            }
-          });
-        }
-        </script>
+      <select onchange="window.location.href=this.value;">
+        <option value="">Select a version</option>
+        <optgroup label="0.5X">
+          <option value="">0.56 Client (OS)</option>
+        </optgroup>
+        <optgroup label="0.6X">
+          <option value="">0.64 Client (OS)</option>
+        </optgroup>
+        <optgroup label="0.7X">
+          <option value="">0.70 Client (OS)</option>
+        </optgroup>
+        <optgroup label="0.8X">
+          <option value="">0.80 Client (CN)</option>
+          <option value="">0.80.52 Client (OS)</option>
+        </optgroup>
+        <optgroup label="0.9X">
+          <option value="">0.90 Client (OS)</option>
+          <option value="">0.90 Launcher (OS)</option>
+          <option value="">0.90 Launcher (CN)</option>
+          <option value="">0.90 APK (OS)</option>
+          <option value="">0.90 APK (CN)</option>
+          <option value="">0.90.57 Client (OS)</option>
+          <option value="">0.90.57 APK (OS)</option>
+          <option value="">0.90.57 APK (CN)</option>
+        </optgroup>
+        <optgroup label="1.0X">
+          <option value="">1.0.52 Client (CN)</option>
+          <option value="">1.0.54 Client (CN)</option>
+        </optgroup>
+        <optgroup label="1.2X">
+          <option value="">1.2.52 Client (CN)</option>
+          <option value="">1.2.52 APK (CN)</option>
+          <option value="">1.2.53 Client (CN)</option>
+        </optgroup>
+        <optgroup label="2.0X">
+          <option value="">2.0.51 Client (OS)</option>
+          <option value="">2.0.52 Client (CN)</option>
+          <option value="">2.0.52 -> 2.0.53 (CN)</option>
+        </optgroup>
+      </select>      
 </html>
