@@ -1,0 +1,18 @@
+Update Files 1.5.52 -> 1.5.53
+
+ORIGINAL:
+https://autopatchcn.yuanshen.com/client_app/beta_update/hk4e_cn/8/game_1.5.52_1.5.53_diff_MHhiV8Bn2xZbst36.zip
+https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/10/game_1.5.52_1.5.53_diff_1glJvKYfz4qLNcGm.zip
+https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/10/game_1.5.52_1.5.53_diff_XSNfWsH4wTY3zM71.zip
+
+
+https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/10/en-us_1.5.52_1.5.53_diff_amdGhC2jQtwqzN8S.zip
+https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/10/ja-jp_1.5.52_1.5.53_diff_BQamN8euiOSskb6r.zip
+https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/10/zh-cn_1.5.52_1.5.53_diff_oV4F7WajRs8MkBZh.zip 
+https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/10/ko-kr_1.5.52_1.5.53_diff_qlsItnecX7EJpBYT.zip
+
+GOOGLE DRIVE/GITHUB:
+---
+---
+---
+
